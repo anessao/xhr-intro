@@ -1,0 +1,28 @@
+{
+	"dinosaurs": [
+		{
+			"name": "Chomper",
+			"type": "T-Rex",
+			"food": "smaller dinosaurs",
+			"url": "http://www.famouscutouts.com/images/detailed/0/1041-TRex.jpg"
+		}, 
+		{
+			"name": "Cera",
+			"type": "Ceratops",
+			"food": "food",
+			"url": "https://i2.wp.com/listverse.com/wp-content/uploads/2010/09/coahuilaceratops.jpg?resize=550%2C308"
+		},
+		{
+			"name": "Petri",
+			"type": "Pterodactyl",
+			"food": "leaves",
+			"url": "http://vignette1.wikia.nocookie.net/parasiteeve/images/4/49/Pterodactyl.png/revision/latest?cb=20160407053053"
+		},
+		{
+			"name": "Spike",
+			"type": "Stegosaurus",
+			"food": "berries",
+			"url": "http://www.dinosaurusi.com/video_slike/9kKvgtfr3I-Stegosaurus-dinosaur_toy-dinosaurs-toys-best-03.jpg"
+		}
+	]
+}
